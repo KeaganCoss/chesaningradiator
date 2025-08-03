@@ -90,7 +90,7 @@ nav a:hover {
     padding: 1.5rem;
     border-radius: 6px;
     width: 250px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
 }
 
 /* About Section */
@@ -131,6 +131,7 @@ nav a:hover {
     border-radius: 4px;
     cursor: pointer;
 }
+
 .contact a {
     color: black;
     text-decoration: none;
@@ -140,17 +141,20 @@ nav a:hover {
 .contact button:hover {
     background: #0056b3;
 }
+
 .reviews {
     padding: 3rem 2rem;
     border: 1px solid black;
     border-radius: 4px;
     text-align: center;
 }
+
 img {
     border: 5px solid gold;
     max-width: 45rem;
     max-height: 21rem;
 }
+
 /* Footer */
 footer {
     text-align: center;
