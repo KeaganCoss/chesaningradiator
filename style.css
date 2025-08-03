@@ -151,8 +151,10 @@ nav a:hover {
 
 img {
     border: 5px solid gold;
+    /*
     max-width: 45rem;
     max-height: 21rem;
+     */
 }
 
 /* Footer */
@@ -160,3 +162,4 @@ footer {
     text-align: center;
     padding: 1.5rem;
     background: #222;
+}
