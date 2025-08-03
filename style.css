@@ -141,6 +141,10 @@ nav a:hover {
     font-weight: bold;
 }
 
+.contact a:hover {
+    text-decoration: underline;
+}
+
 .contact button:hover {
     background: #0056b3;
 }
