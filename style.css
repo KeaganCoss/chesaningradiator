@@ -64,6 +64,7 @@ nav a:hover {
     font-weight: bold;
     border-radius: 5px;
     text-decoration: none;
+    border: solid 4px #064fec;
 }
 
 .btn:hover {
